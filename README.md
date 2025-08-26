@@ -1,4 +1,4 @@
-# 🏏 IPL Insights (Codebasics Project Challenge 10)
+# 🏏 IPL Insights (2021-2023)
 
 🚀 As part of the **Codebasics Project Challenge 10**, I explored IPL seasons (2021–2023) to uncover key insights and predict trends for the ongoing 2024 season. This project blends my passion for cricket with my data analytics skills.  
 
